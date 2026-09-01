@@ -1,2 +1,2 @@
-square = lambda x : x * x
+square = lambda x:x*x
 print(square(12))
