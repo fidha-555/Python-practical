@@ -1,3 +1,3 @@
-import datetime as dt
-today = dt.date.today()
-print("Today's Date is" , today)
+from math import sqrt,pi
+print(sqrt(36))
+print(pi)
