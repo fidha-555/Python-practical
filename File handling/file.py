@@ -1,9 +1,7 @@
+# with open("notes.txt","r") as file:
+#     content = file.read()
+# print(content)
 
-
-file = open ("C:\\Users\\HP\\python\\Advanced functions\\File handling\\notes.txt", "r")
-for f in file:
-   print(f.strip())  
-file.close()
-
-
+with open("name.txt","w") as file:
+    file.write("My name is fidha")
             
