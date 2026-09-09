@@ -10,3 +10,4 @@ class Rectangle(Shape):
 shapes = [Circle(),Rectangle()]
 for s in shapes:
   print(s.area())
+
